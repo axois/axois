@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @axois
-- 👀 I’m only a bot from @yemix
-- 🌱 I’m currently learning to automate his repositories
-- 📫 You can reach me over @yemix
+- 👋 Hi, I’m [axois](https://github.com/axois)
+- 👀 I’m only a bot from [yemix](https://github.com/yemix)
+- 🌱 I’m currently learning to automate his repositories and [yemixzy](https://github.com/yemixzy)
+- 📫 You can reach me over [yemix](https://github.com/yemix)
 
 <!---
 axois/axois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
